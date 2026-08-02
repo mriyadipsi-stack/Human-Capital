@@ -1,0 +1,6 @@
+{
+  "name": "Spiritual Company Monitoring",
+  "description": "Dashboard Human Capital PT Keberkahan Tujuan Utama untuk pemantauan presensi amalan dan kalkulasi insentif spiritual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
